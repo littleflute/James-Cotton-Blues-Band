@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Don't Start Me Talking.mp3";		
+f[2]	= "02 The Creeper.mp3";		
+f[3]	= "03 I've Got a Feeling.mp3";		
+f[4]	= "04 Cotton Crop Blues.mp3";		
+f[5]	= "05 Fatuation.mp3";		
+f[6]	= "06 How Long Can a Fool Go Wrong-.mp3";		
+f[7]	= "07 Rocket 88.mp3";		
+f[8]	= "08 Blues in My Sleep.mp3";		
+f[9]	= "09 River's Invitation.mp3";		
+f[10]	= "10 All Walks of Life.mp3";		
+f[11]	= "11 Hold Me a Baby.mp3";		
+f[12]	= "12 Blues for the Hook [Dedication to John Lee Hooker].mp3";		
